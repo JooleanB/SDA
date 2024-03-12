@@ -1,0 +1,10 @@
+﻿  TestExtins.cpp
+C:\Users\musat\source\repos\Lab4SDA\Lab4SDA\TestExtins.cpp(81,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musat\source\repos\Lab4SDA\Lab4SDA\TestExtins.cpp(96,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musat\source\repos\Lab4SDA\Lab4SDA\TestExtins.cpp(110,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musat\source\repos\Lab4SDA\Lab4SDA\TestExtins.cpp(120,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musat\source\repos\Lab4SDA\Lab4SDA\TestExtins.cpp(224,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\musat\source\repos\Lab4SDA\Lab4SDA\TestExtins.cpp(274,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  Generating Code...
+  Lab4SDA.vcxproj -> C:\Users\musat\source\repos\Lab4SDA\x64\Debug\Lab4SDA.exe
